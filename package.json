@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "budo index.js --live --open"
+  },
+  "dependencies": {
+    "budo": "^11.3.2",
+    "ctx-camera": "git+https://github.com/tmpvar/ctx-camera.git",
+    "ctx-render-grid-lines": "^1.0.0",
+    "ctx-translate-center": "^1.0.0",
+    "fc": "^1.5.2",
+    "gl-matrix": "^2.8.1",
+    "ndarray": "^1.0.18",
+    "ray-aabb-slab": "^1.0.1",
+    "segseg": "^0.2.2"
+  }
+}
